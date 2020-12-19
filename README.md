@@ -1,6 +1,6 @@
 # THUEE_DSP
 
-THU EE DSP Course Design Projects
+Course Design Projects of THUEE Course Digital Signal Processing
 
 ## FFT
 
